@@ -153,7 +153,7 @@
 							<div class="flex-shrink-0">
 								<img
 									class="h-48 w-full rounded-lg object-cover"
-									src="/assets/images/placeholders/neon-2.jpg"
+									src=""
 									alt=""
 								/>
 							</div>
@@ -180,7 +180,7 @@
 								<div>
 									<img
 										class="inline-block h-9 w-9 rounded-full"
-										src="/assets/images/placeholders/avatar-bw-1.jpg"
+										src=""
 										alt=""
 									/>
 								</div>
@@ -201,7 +201,7 @@
 								<div class="flex-shrink-0">
 									<img
 										class="h-48 w-full rounded-lg object-cover"
-										src="/assets/images/placeholders/neon-5.jpg"
+										src=""
 										alt=""
 									/>
 								</div>
@@ -230,7 +230,7 @@
 									<div>
 										<img
 											class="inline-block h-9 w-9 rounded-full"
-											src="/assets/images/placeholders/avatar-bw-2.jpg"
+											src=""
 											alt=""
 										/>
 									</div>
@@ -265,7 +265,7 @@
 					<div class="mb-4 flex-shrink-0 sm:mb-0 sm:mr-4">
 						<img
 							class="h-32 w-full rounded-md object-cover lg:w-32"
-							src="/assets/images/placeholders/neon-1.jpg"
+							src=""
 							alt="text"
 						/>
 					</div>
